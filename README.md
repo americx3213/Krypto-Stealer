@@ -1,12 +1,5 @@
-📁 〢 Setting up
-Install Python
-Download CStealer Files
-Install all requirements install.bat
-Click on start.bat start.bat
-Complete the configuration
-You must be have your Python/Executable file ready
 
-💎 〢 Features
+\💎 〢 Features
 
 > Default:
 
