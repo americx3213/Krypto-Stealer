@@ -1,5 +1,5 @@
 
-\💎 〢 Features
+💎 〢 Features
 
 > Default:
 
